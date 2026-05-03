@@ -1,0 +1,14 @@
+# uv virtual environment
+.venv/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+
+# Local environment variables
+.env
