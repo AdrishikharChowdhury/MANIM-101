@@ -29,7 +29,6 @@ class Logos(Scene):
         bg.scale_to_fit_width(config.frame_width)
         self.add(bg)
 
-        self.play(FadeIn(bg))
+        self.play(FadeIn(bg),run_time=1)
         self.play(Write(mongo_group),Write(next_group),Write(ts_group),run_time=2)
-        self.play(FadeOut(mongo_group),FadeOut(next_group),FadeOut(ts_group),run_time=2)
-        self.play(FadeOut(bg))
+        self.play(FadeOut(mongo_group),FadeOut(next_group),FadeOut(ts_group),FadeOut(bg),run_time=1)
