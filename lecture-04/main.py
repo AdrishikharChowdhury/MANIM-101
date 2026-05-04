@@ -10,3 +10,7 @@ class Testing(Scene):
         self.play(DrawBorderThenFill(square))
         self.play(Create(triangle))
         self.wait()
+
+        self.play(name.animate.to_edge(UR,buff=1),run_time=2)
+        self.play(square.animate.scale(2.5),triangle.animate.move_to(ORIGIN),run_time=4)
+        self.wait()
