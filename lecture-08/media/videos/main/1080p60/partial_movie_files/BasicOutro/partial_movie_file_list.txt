@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/amiad/Downloads/Workspace/MANIM/lecture-08/media/videos/main/1080p60/partial_movie_files/BasicOutro/3544663784_261906640_3524523300.mp4'
+file 'file:C:/Users/amiad/Downloads/Workspace/MANIM/lecture-08/media/videos/main/1080p60/partial_movie_files/BasicOutro/260329756_1469958443_3643484642.mp4'
+file 'file:C:/Users/amiad/Downloads/Workspace/MANIM/lecture-08/media/videos/main/1080p60/partial_movie_files/BasicOutro/260329756_1880860457_3142422926.mp4'
+file 'file:C:/Users/amiad/Downloads/Workspace/MANIM/lecture-08/media/videos/main/1080p60/partial_movie_files/BasicOutro/260329756_1532673470_4052371830.mp4'
