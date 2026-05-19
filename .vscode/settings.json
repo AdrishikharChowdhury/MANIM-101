@@ -1,0 +1,4 @@
+{
+    "manim-sideview.manimPath": "python",
+    "manim-sideview.commandArgs": "-m manim"
+}
