@@ -18,15 +18,17 @@ call uv venv
 echo Installing Manim...
 call .venv\Scripts\activate && uv add manim
 
-:: Create the run script
-echo Creating run script...
+:: Create the run folder and scripts
+echo Creating run scripts...
+mkdir run
 (
 echo @echo off
+echo cd /d "%%~dp0.."
 echo .venv\Scripts\python -m manim -pqh main.py %%*
 echo pause
-) > run.bat
+) > run\run.bat
 
 echo.
 echo Setup complete! Your project "%foldername%" is ready.
-echo Use run.bat inside the folder to compile and preview.
+echo Use run\run.bat to compile and preview.
 pause

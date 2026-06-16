@@ -21,14 +21,16 @@ uv venv
 echo "Installing Manim..."
 source .venv/bin/activate && uv add manim
 
-# Create the run script
-echo "Creating run script..."
-cat > run.sh << 'EOF'
+# Create the run folder and scripts
+echo "Creating run scripts..."
+mkdir -p run
+cat > run/run.sh << 'EOF'
 #!/bin/bash
+cd "$(dirname "$0")/.."
 .venv/bin/python -m manim -pqh main.py "$@"
 EOF
-chmod +x run.sh
+chmod +x run/run.sh
 
 echo ""
 echo "Setup complete! Your project '$foldername' is ready."
-echo "Use run.sh inside the folder to compile and preview."
+echo "Use run/run.sh to compile and preview."
