@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/shibaji/Downloads/My Workspace/MANIM-101/CHIPS-outro/media/videos/main/1080p60/partial_movie_files/Chips_Outro/2257293077_1082841594_3524523300.mp4'
+file 'file:/home/shibaji/Downloads/My Workspace/MANIM-101/CHIPS-outro/media/videos/main/1080p60/partial_movie_files/Chips_Outro/2135761390_2603062411_274747713.mp4'
+file 'file:/home/shibaji/Downloads/My Workspace/MANIM-101/CHIPS-outro/media/videos/main/1080p60/partial_movie_files/Chips_Outro/2135761390_1379283255_732648299.mp4'
+file 'file:/home/shibaji/Downloads/My Workspace/MANIM-101/CHIPS-outro/media/videos/main/1080p60/partial_movie_files/Chips_Outro/2135761390_2164560990_448380539.mp4'
+file 'file:/home/shibaji/Downloads/My Workspace/MANIM-101/CHIPS-outro/media/videos/main/1080p60/partial_movie_files/Chips_Outro/2135761390_1512063062_3990955104.mp4'
