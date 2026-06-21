@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Prompt user for folder name
 echo "Enter project folder name:"
 read foldername
