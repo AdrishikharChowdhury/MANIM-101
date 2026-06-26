@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/shibaji/Downloads/My Workspace/MANIM-101/CHIPS-backend-intro/media/videos/main/1080p60/partial_movie_files/Chips_Backend_Intro/2257293077_904749690_3524523300.mp4'
+file 'file:/home/shibaji/Downloads/My Workspace/MANIM-101/CHIPS-backend-intro/media/videos/main/1080p60/partial_movie_files/Chips_Backend_Intro/2135761390_112893214_494423427.mp4'
+file 'file:/home/shibaji/Downloads/My Workspace/MANIM-101/CHIPS-backend-intro/media/videos/main/1080p60/partial_movie_files/Chips_Backend_Intro/2135761390_1145914438_267059419.mp4'
+file 'file:/home/shibaji/Downloads/My Workspace/MANIM-101/CHIPS-backend-intro/media/videos/main/1080p60/partial_movie_files/Chips_Backend_Intro/2135761390_965448637_1346292136.mp4'
+file 'file:/home/shibaji/Downloads/My Workspace/MANIM-101/CHIPS-backend-intro/media/videos/main/1080p60/partial_movie_files/Chips_Backend_Intro/2135761390_897042290_1946521274.mp4'
+file 'file:/home/shibaji/Downloads/My Workspace/MANIM-101/CHIPS-backend-intro/media/videos/main/1080p60/partial_movie_files/Chips_Backend_Intro/2135761390_227340926_1492656440.mp4'
+file 'file:/home/shibaji/Downloads/My Workspace/MANIM-101/CHIPS-backend-intro/media/videos/main/1080p60/partial_movie_files/Chips_Backend_Intro/2135761390_2164560990_1928848687.mp4'
