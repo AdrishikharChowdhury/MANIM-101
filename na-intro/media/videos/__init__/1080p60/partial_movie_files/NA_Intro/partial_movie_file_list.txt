@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/shibaji/Downloads/My Workspace/MANIM-101/na-intro/media/videos/__init__/1080p60/partial_movie_files/NA_Intro/3373382780_2361006302_1366260026.mp4'
+file 'file:/home/shibaji/Downloads/My Workspace/MANIM-101/na-intro/media/videos/__init__/1080p60/partial_movie_files/NA_Intro/4234509111_2724949222_3511854705.mp4'
+file 'file:/home/shibaji/Downloads/My Workspace/MANIM-101/na-intro/media/videos/__init__/1080p60/partial_movie_files/NA_Intro/4234509111_2940048000_1291544391.mp4'
+file 'file:/home/shibaji/Downloads/My Workspace/MANIM-101/na-intro/media/videos/__init__/1080p60/partial_movie_files/NA_Intro/4234509111_174007285_3794598203.mp4'
+file 'file:/home/shibaji/Downloads/My Workspace/MANIM-101/na-intro/media/videos/__init__/1080p60/partial_movie_files/NA_Intro/4234509111_3863576989_660673633.mp4'
+file 'file:/home/shibaji/Downloads/My Workspace/MANIM-101/na-intro/media/videos/__init__/1080p60/partial_movie_files/NA_Intro/4234509111_3465475312_1740356296.mp4'
+file 'file:/home/shibaji/Downloads/My Workspace/MANIM-101/na-intro/media/videos/__init__/1080p60/partial_movie_files/NA_Intro/4234509111_3873173991_2974674488.mp4'
