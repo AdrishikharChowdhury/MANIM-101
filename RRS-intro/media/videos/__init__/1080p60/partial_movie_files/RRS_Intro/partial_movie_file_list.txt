@@ -1,0 +1,8 @@
+# This file records the segment order used by Manim.
+file 'file:/home/shibaji/Downloads/My Workspace/MANIM-101/RRS-intro/media/videos/__init__/1080p60/partial_movie_files/RRS_Intro/183f1bd9efaab5c85b1aee9ba7207770da448b4a5517cca2b062ac8b6e0aebfb.mp4'
+file 'file:/home/shibaji/Downloads/My Workspace/MANIM-101/RRS-intro/media/videos/__init__/1080p60/partial_movie_files/RRS_Intro/0669ed67cb0e890f4ee006e9f47399493ea2559541cd3c3b9e96a4b7fd9b4626.mp4'
+file 'file:/home/shibaji/Downloads/My Workspace/MANIM-101/RRS-intro/media/videos/__init__/1080p60/partial_movie_files/RRS_Intro/16b4a174c3dd798d5d071e1c2efbb98c24ed11d9f21a1d61f74345699ff28a81.mp4'
+file 'file:/home/shibaji/Downloads/My Workspace/MANIM-101/RRS-intro/media/videos/__init__/1080p60/partial_movie_files/RRS_Intro/81b2a5c4f973aea52d82f97130c1e5805970a898da922e1ba5e713bd5516408d.mp4'
+file 'file:/home/shibaji/Downloads/My Workspace/MANIM-101/RRS-intro/media/videos/__init__/1080p60/partial_movie_files/RRS_Intro/6dd40f07aa372d6e43068e5d2b5c9373f793690eb16b3869d1ec081b76918d97.mp4'
+file 'file:/home/shibaji/Downloads/My Workspace/MANIM-101/RRS-intro/media/videos/__init__/1080p60/partial_movie_files/RRS_Intro/c49d9a873055a82487096f6f89fb94e78337ec67da073131715171d1eb008434.mp4'
+file 'file:/home/shibaji/Downloads/My Workspace/MANIM-101/RRS-intro/media/videos/__init__/1080p60/partial_movie_files/RRS_Intro/b2a94196825a277cf61ff934e1833d65f7f98ac1b01dd57a87f32063f06aef58.mp4'

@@ -1,0 +1,19 @@
+[project]
+name = "rrs-intro"
+version = "0.1.0"
+description = "Manim intro for the Round-Robin Scheduling Simulation"
+readme = "README.md"
+authors = [
+    { name = "AdrishikharChodhury", email = "amiadrishikhar@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "manim>=0.22.1",
+]
+
+[project.scripts]
+rrs-intro = "rrs_intro:main"
+
+[build-system]
+requires = ["uv_build>=0.13.6,<0.14.0"]
+build-backend = "uv_build"

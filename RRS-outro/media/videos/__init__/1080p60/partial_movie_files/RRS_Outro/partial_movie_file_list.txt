@@ -1,0 +1,6 @@
+# This file records the segment order used by Manim.
+file 'file:/home/shibaji/Downloads/My Workspace/MANIM-101/RRS-outro/media/videos/__init__/1080p60/partial_movie_files/RRS_Outro/17aac896417f1e57932a04173bde25d1c407a3fd3dcff29a87fdb794bf3ee136.mp4'
+file 'file:/home/shibaji/Downloads/My Workspace/MANIM-101/RRS-outro/media/videos/__init__/1080p60/partial_movie_files/RRS_Outro/ee00fba865009e7fa9d622adc304a6c7ce69f6714fb165f52ebe38b696057947.mp4'
+file 'file:/home/shibaji/Downloads/My Workspace/MANIM-101/RRS-outro/media/videos/__init__/1080p60/partial_movie_files/RRS_Outro/81372dbf0d555c1931d7b606f4bece9824e1f117dbbb3e2c766c95833baf1106.mp4'
+file 'file:/home/shibaji/Downloads/My Workspace/MANIM-101/RRS-outro/media/videos/__init__/1080p60/partial_movie_files/RRS_Outro/f8dd11d037b54d75a515178b390b10657b7eb2b6aaa4f73d93c5d76ceb39ed68.mp4'
+file 'file:/home/shibaji/Downloads/My Workspace/MANIM-101/RRS-outro/media/videos/__init__/1080p60/partial_movie_files/RRS_Outro/8ea28eff5609266a1ffddc0e68a647a27c53582276e895339e19c8acfdf0d7b2.mp4'
